@@ -4,4 +4,4 @@ Using this library you can get and modify RDS datas for Deva SmartGen Mini RDS e
 
 # Examples
 
-Check out [examples.php](examples.php) .
+Check out [example.php](example.php) .
