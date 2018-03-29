@@ -1,6 +1,6 @@
 <?php
 /**
- * Classe qui gère les interactions avec le codeur RDS SmartGen Mini de chez Deva
+ * This class can get and modify RDS datas for Deva SmartGen Mini RDS encoder
  * @author: Fabien Schenkels <f@bien.be>
  */
 
